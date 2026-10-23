@@ -2,7 +2,7 @@ repository:
   repository_name: ReleaseTest2
   release_tag: r1.1
   release_type: pre-release-alpha
-  release_date: null
+  release_date: '2026-10-23T12:23:29Z'
   src_commit_sha: a8cbaeb656f35fab93ad1c2af737b5869294a604
 apis:
 - api_name: sample-service
