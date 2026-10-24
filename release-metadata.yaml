@@ -1,0 +1,19 @@
+repository:
+  repository_name: ReleaseTest2
+  release_tag: r1.6
+  release_type: public-release
+  release_date: null
+  src_commit_sha: 8ca7e29baf4d3622081d544dc3ac1cfb2dcf41f2
+apis:
+- api_name: sample-service
+  api_version: 0.1.0
+  api_title: Sample Service
+- api_name: sample-service-subscriptions
+  api_version: 0.1.0
+  api_title: Sample Service Subscription Template
+- api_name: sample-implicit-events
+  api_version: 0.1.0
+  api_title: Sample Implicit Events
+dependencies:
+  commonalities_release: r4.4 (0.9.0)
+  identity_consent_management_release: r4.2 (0.5.0)
