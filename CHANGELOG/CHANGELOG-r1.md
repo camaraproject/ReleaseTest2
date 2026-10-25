@@ -76,7 +76,7 @@ Changes documented below are compared to version 0.1.0.
 
 ### Fixed
 
-* N/A
+* Clarified the API description wording ([#77](https://github.com/camaraproject/ReleaseTest2/pull/77))
 
 ### Removed
 
@@ -107,7 +107,7 @@ Changes documented below are compared to version 0.1.0.
 
 ### Fixed
 
-* N/A
+* Clarified the API description wording ([#77](https://github.com/camaraproject/ReleaseTest2/pull/77))
 
 ### Removed
 
@@ -138,7 +138,7 @@ Changes documented below are compared to version 0.1.0.
 
 ### Fixed
 
-* N/A
+* Clarified the API description wording ([#77](https://github.com/camaraproject/ReleaseTest2/pull/77))
 
 ### Removed
 
