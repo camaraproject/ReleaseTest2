@@ -2,7 +2,7 @@ repository:
   repository_name: ReleaseTest2
   release_tag: r1.7
   release_type: maintenance-release
-  release_date: null
+  release_date: '2026-10-25T20:29:01Z'
   src_commit_sha: 8932c100a5a64ba0e651460ce5b71b76f31344ab
 apis:
 - api_name: sample-service
