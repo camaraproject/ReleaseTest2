@@ -2,7 +2,7 @@ openapi: 3.0.3
 info:
   title: Sample Service
   description: |
-    Template for a request-response CAMARA API.
+    Template for a request-response CAMARA API (sample service).
 
     Copy this file to your API repository's `code/API_definitions/` directory
     and adapt it to your API's resources and operations.

@@ -12,7 +12,7 @@ openapi: 3.0.3
 info:
   title: Sample Implicit Events
   description: |
-    Template for a CAMARA API that delivers event notifications via OpenAPI
+    Template for a CAMARA API that delivers event notifications through OpenAPI
     `callbacks:` on a resource-creation operation (implicit-subscription pattern).
 
     The consumer provides an HTTPS `sink` (and optionally `sinkCredential`) as
