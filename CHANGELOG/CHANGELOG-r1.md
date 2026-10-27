@@ -75,7 +75,7 @@ Changes documented below are compared to version 0.1.2.
 
 ### Fixed
 
-* N/A
+* Release candidate of the r1.8 patch: version raised to 0.1.3 (no functional change in this test repository)
 
 ### Removed
 
