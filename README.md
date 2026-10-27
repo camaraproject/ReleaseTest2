@@ -28,28 +28,17 @@ Second test repository for end-to-end validation of the automated release workfl
 > [!NOTE]
 > Please be aware that the project will have frequent updates to the main branch. There are no compatibility guarantees associated with code in any branch, including main, until a new release is created. For example, changes may be reverted before a release is created. **For best results, use the latest available release**.
 
-* The latest public release is [r1.8](https://github.com/camaraproject/ReleaseTest2/releases/tag/r1.8), with the following API versions:
-  * **sample-service 0.1.2**
-  [[YAML]](https://github.com/camaraproject/ReleaseTest2/blob/r1.8/code/API_definitions/sample-service.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r1.8/code/API_definitions/sample-service.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r1.8/code/API_definitions/sample-service.yaml)
-  * **sample-service-subscriptions 0.1.2**
-  [[YAML]](https://github.com/camaraproject/ReleaseTest2/blob/r1.8/code/API_definitions/sample-service-subscriptions.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r1.8/code/API_definitions/sample-service-subscriptions.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r1.8/code/API_definitions/sample-service-subscriptions.yaml)
-  * **sample-implicit-events 0.1.2**
-  [[YAML]](https://github.com/camaraproject/ReleaseTest2/blob/r1.8/code/API_definitions/sample-implicit-events.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r1.8/code/API_definitions/sample-implicit-events.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r1.8/code/API_definitions/sample-implicit-events.yaml)
+* The latest public release is [r2.2](https://github.com/camaraproject/ReleaseTest2/releases/tag/r2.2), with the following API versions:
+  * **sample-service 0.2.0**
+  [[YAML]](https://github.com/camaraproject/ReleaseTest2/blob/r2.2/code/API_definitions/sample-service.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r2.2/code/API_definitions/sample-service.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r2.2/code/API_definitions/sample-service.yaml)
+  * **sample-service-subscriptions 0.2.0**
+  [[YAML]](https://github.com/camaraproject/ReleaseTest2/blob/r2.2/code/API_definitions/sample-service-subscriptions.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r2.2/code/API_definitions/sample-service-subscriptions.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r2.2/code/API_definitions/sample-service-subscriptions.yaml)
+  * **sample-implicit-events 0.2.0**
+  [[YAML]](https://github.com/camaraproject/ReleaseTest2/blob/r2.2/code/API_definitions/sample-implicit-events.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r2.2/code/API_definitions/sample-implicit-events.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r2.2/code/API_definitions/sample-implicit-events.yaml)
 
 * The latest public release is always available here: https://github.com/camaraproject/ReleaseTest2/releases/latest
 * Other releases of this repository are available in https://github.com/camaraproject/ReleaseTest2/releases
 * For changes see [CHANGELOG](https://github.com/camaraproject/ReleaseTest2/tree/main/CHANGELOG)
-
-### Upcoming Release Preview
-
-* Pre-release: [r2.1](https://github.com/camaraproject/ReleaseTest2/releases/tag/r2.1) (release candidate)
-  * **sample-service 0.2.0-rc.1**
-  [[YAML]](https://github.com/camaraproject/ReleaseTest2/blob/r2.1/code/API_definitions/sample-service.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r2.1/code/API_definitions/sample-service.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r2.1/code/API_definitions/sample-service.yaml)
-  * **sample-service-subscriptions 0.2.0-rc.1**
-  [[YAML]](https://github.com/camaraproject/ReleaseTest2/blob/r2.1/code/API_definitions/sample-service-subscriptions.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r2.1/code/API_definitions/sample-service-subscriptions.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r2.1/code/API_definitions/sample-service-subscriptions.yaml)
-  * **sample-implicit-events 0.2.0-rc.1**
-  [[YAML]](https://github.com/camaraproject/ReleaseTest2/blob/r2.1/code/API_definitions/sample-implicit-events.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r2.1/code/API_definitions/sample-implicit-events.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r2.1/code/API_definitions/sample-implicit-events.yaml)
-
 
 _The above section is automatically synchronized by CAMARA project-administration._
 <!-- CAMARA:RELEASE-INFO:END -->
