@@ -78,7 +78,7 @@ Changes documented below are compared to version 0.1.3.
 
 ### Fixed
 
-* N/A
+* Second patch of cycle r1: version raised to 0.1.4 (no functional change in this test repository)
 
 ### Removed
 
