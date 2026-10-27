@@ -80,7 +80,7 @@ Changes documented below are compared to version 0.1.2.
 
 ### Fixed
 
-* N/A
+* Patch of r1.8: version 0.1.3 released as public after release candidate r1.9 (no functional change in this test repository)
 
 ### Removed
 
