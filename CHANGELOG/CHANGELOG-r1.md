@@ -2,6 +2,7 @@
 
 <!-- TOC:START -->
 ## Table of Contents
+- **[r1.10](#r110)**
 - [r1.9](#r19)
 - **[r1.8](#r18)**
 - **[r1.7](#r17)**
@@ -21,6 +22,70 @@ The below sections record the changes for each API version in each release as fo
 * for the first release-candidate, all changes since the last public release
 * for subsequent release-candidate(s), only the delta to the previous release-candidate
 * for a public release, the consolidated changes since the previous public release
+
+# r1.10
+
+## Release Notes
+
+This maintenance release contains the definition and documentation of
+* sample-service 0.1.3
+* sample-service-subscriptions 0.1.2
+* sample-implicit-events 0.1.2
+
+The API definition(s) are based on
+* Commonalities r4.4 (0.9.0)
+* Identity and Consent Management r4.2 (0.5.0)
+
+## sample-service 0.1.3
+
+**sample-service 0.1.3 is a patch update of this API.**
+
+Changes documented below are compared to version 0.1.2.
+
+- API definition **with inline documentation**:
+  - [View it on ReDoc](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r1.10/code/API_definitions/sample-service.yaml&nocors)
+  - [View it on Swagger Editor](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r1.10/code/API_definitions/sample-service.yaml)
+  - OpenAPI [YAML spec file](https://github.com/camaraproject/ReleaseTest2/blob/r1.10/code/API_definitions/sample-service.yaml)
+
+### Breaking changes
+
+* N/A
+
+### Added
+
+* N/A
+
+### Changed
+
+* N/A
+
+### Fixed
+
+* Patch of r1.8: version 0.1.3 released as public after release candidate r1.9 (no functional change in this test repository)
+
+### Removed
+
+* N/A
+
+## sample-service-subscriptions 0.1.2
+
+**sample-service-subscriptions 0.1.2 is unchanged in this release.**
+
+- API definition **with inline documentation**:
+  - [View it on ReDoc](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r1.10/code/API_definitions/sample-service-subscriptions.yaml&nocors)
+  - [View it on Swagger Editor](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r1.10/code/API_definitions/sample-service-subscriptions.yaml)
+  - OpenAPI [YAML spec file](https://github.com/camaraproject/ReleaseTest2/blob/r1.10/code/API_definitions/sample-service-subscriptions.yaml)
+
+## sample-implicit-events 0.1.2
+
+**sample-implicit-events 0.1.2 is unchanged in this release.**
+
+- API definition **with inline documentation**:
+  - [View it on ReDoc](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r1.10/code/API_definitions/sample-implicit-events.yaml&nocors)
+  - [View it on Swagger Editor](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/ReleaseTest2/r1.10/code/API_definitions/sample-implicit-events.yaml)
+  - OpenAPI [YAML spec file](https://github.com/camaraproject/ReleaseTest2/blob/r1.10/code/API_definitions/sample-implicit-events.yaml)
+
+**Full Changelog**: https://github.com/camaraproject/ReleaseTest2/compare/r1.8...r1.10
 
 # r1.9
 
