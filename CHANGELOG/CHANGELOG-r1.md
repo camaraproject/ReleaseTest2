@@ -1,5 +1,4 @@
 # Changelog ReleaseTest2
-<!-- test: post-release sync retry on ReleaseTest2; the r1.11 sync PR restores this file from the tag -->
 
 <!-- TOC:START -->
 ## Table of Contents
