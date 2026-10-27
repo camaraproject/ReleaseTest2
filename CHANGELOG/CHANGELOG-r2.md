@@ -69,7 +69,7 @@ Changes documented below are compared to version 0.1.2.
 
 ### Changed
 
-* N/A
+* Version raised to 0.2.0 for release cycle r2 (no functional change in this test repository)
 
 ### Fixed
 
@@ -100,7 +100,7 @@ Changes documented below are compared to version 0.1.2.
 
 ### Changed
 
-* N/A
+* Version raised to 0.2.0 for release cycle r2 (no functional change in this test repository)
 
 ### Fixed
 
@@ -131,7 +131,7 @@ Changes documented below are compared to version 0.1.2.
 
 ### Changed
 
-* N/A
+* Version raised to 0.2.0 for release cycle r2 (no functional change in this test repository)
 
 ### Fixed
 
