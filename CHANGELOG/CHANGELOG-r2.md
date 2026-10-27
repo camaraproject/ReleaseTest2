@@ -72,7 +72,7 @@ Changes documented below are compared to version 0.1.2.
 
 ### Changed
 
-* N/A
+* Version 0.2.0 released as public after release candidate r2.1 (no functional change in this test repository)
 
 ### Fixed
 
@@ -103,7 +103,7 @@ Changes documented below are compared to version 0.1.2.
 
 ### Changed
 
-* N/A
+* Version 0.2.0 released as public after release candidate r2.1 (no functional change in this test repository)
 
 ### Fixed
 
@@ -134,7 +134,7 @@ Changes documented below are compared to version 0.1.2.
 
 ### Changed
 
-* N/A
+* Version 0.2.0 released as public after release candidate r2.1 (no functional change in this test repository)
 
 ### Fixed
 
