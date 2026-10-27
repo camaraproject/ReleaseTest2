@@ -2,7 +2,7 @@ repository:
   repository_name: ReleaseTest2
   release_tag: r1.11
   release_type: maintenance-release
-  release_date: null
+  release_date: '2026-10-27T10:51:07Z'
   src_commit_sha: 5b546e2f62c43261b1a9bff045d5c67423e99774
   base_branch: maintenance/r1
 apis:
