@@ -2,7 +2,7 @@ repository:
   repository_name: ReleaseTest2
   release_tag: r2.1
   release_type: pre-release-rc
-  release_date: null
+  release_date: '2026-10-27T06:54:38Z'
   src_commit_sha: 99beb842f0c6634fec09eecdd3906d0f765320da
   base_branch: main
 apis:
